@@ -1,0 +1,92 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: A0A125SL25_copy_Repair.pdb
+1 models read: A0A125SL25_copy_Repair.pdb
+Output: ./A0A125SL25_copy_Repair.log
+
+BackHbond       =               -465.10
+SideHbond       =               -223.57
+Energy_VdW      =               -813.03
+Electro         =               -49.40
+Energy_SolvP    =               1064.49
+Energy_SolvH    =               -1067.77
+Energy_vdwclash =               29.12
+energy_torsion  =               11.61
+backbone_vdwclash=              439.98
+Entropy_sidec   =               427.51
+Entropy_mainc   =               944.23
+water bonds     =               0.00
+helix dipole    =               -17.73
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.42
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -155.09
+
+
+BackHbond       =               -465.10
+SideHbond       =               -223.57
+Energy_VdW      =               -813.03
+Electro         =               -49.40
+Energy_SolvP    =               1064.49
+Energy_SolvH    =               -1067.77
+Energy_vdwclash =               29.12
+energy_torsion  =               11.61
+backbone_vdwclash=              439.98
+Entropy_sidec   =               427.51
+Entropy_mainc   =               944.23
+water bonds     =               0.00
+helix dipole    =               -17.73
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.42
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -155.09
+
+Starting BuildModel
+Reading FA9G;FA11P;SA12A;AA13G;AA275W;SA277W;GA279I;YA280P;KA388P;
+Residue to Mutate PHEA9 has residue index 8
+Residue to Mutate PHEA11 has residue index 10
+Residue to Mutate SERA12 has residue index 11
+Residue to Mutate ALAA13 has residue index 12
+Residue to Mutate ALAA275 has residue index 274
+Residue to Mutate SERA277 has residue index 276
+Residue to Mutate GLYA279 has residue index 278
+Residue to Mutate TYRA280 has residue index 279
+Residue to Mutate LYSA388 has residue index 387
+Mutating residue = PHEA9 into GLY
+Mutating residue = PHEA11 into PRO
+Mutating residue = SERA12 into ALA
+Mutating residue = ALAA13 into GLY
+Mutating residue = ALAA275 into TRP
+Mutating residue = SERA277 into TRP
+Mutating residue = GLYA279 into ILE
+Mutating residue = TYRA280 into PRO
+Mutating residue = LYSA388 into PRO
+Your file run OK
+End time of FoldX: Mon Apr 22 12:07:48 2024
+Total time spend: 105.57 seconds.
+validated file "A0A125SL25_copy_Repair_1.pdb" => successfully finished
+Cleaning BuildModel...DONE
