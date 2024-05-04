@@ -1,0 +1,5 @@
+hugo_name,uniprot,uniprot_isoform,mutations,cluster_id
+NA,A0A0P7YMS9,1,NA,NA
+NA,A0A0P7XDT3,1,NA,NA
+NA,G0LAH5,1,NA,NA
+NA,G0LBK6,1,NA,NA
