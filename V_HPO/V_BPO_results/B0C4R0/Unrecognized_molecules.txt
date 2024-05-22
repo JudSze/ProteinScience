@@ -1,0 +1,10 @@
+Unrecognised atom: PO4 901 P
+Unrecognised atom: PO4 901 O1
+Unrecognised atom: PO4 901 O2
+Unrecognised atom: PO4 901 O3
+Unrecognised atom: PO4 901 O4
+Unrecognised atom: PO4 901 P
+Unrecognised atom: PO4 901 O1
+Unrecognised atom: PO4 901 O2
+Unrecognised atom: PO4 901 O3
+Unrecognised atom: PO4 901 O4
